@@ -1,4 +1,4 @@
-package com.java.books.head_first_java.page_51;
+package com.java.books.head_first_java.chapter_1.page_51;
 
 public class Exercise1b {
     public static void main(String[] args) {

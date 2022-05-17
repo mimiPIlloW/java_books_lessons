@@ -1,4 +1,4 @@
-package com.java.books.head_first_java.page_54;
+package com.java.books.head_first_java.chapter_1.page_54;
 
 public class PoolPuzzleOne {
     public static void main(String[] args) {

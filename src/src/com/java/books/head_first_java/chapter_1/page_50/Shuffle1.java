@@ -1,4 +1,4 @@
-package com.java.books.head_first_java.page_50;
+package com.java.books.head_first_java.chapter_1.page_50;
 
 public class Shuffle1 {
     public static void main(String[] args) {

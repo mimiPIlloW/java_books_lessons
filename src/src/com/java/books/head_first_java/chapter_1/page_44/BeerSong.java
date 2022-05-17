@@ -1,4 +1,4 @@
-package com.java.books.head_first_java.page_44;
+package com.java.books.head_first_java.chapter_1.page_44;
 
 public class BeerSong {
     public static void main(String[] args) {
